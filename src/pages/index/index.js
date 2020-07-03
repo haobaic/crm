@@ -1,8 +1,8 @@
 import Vue from 'vue'
-import App from './App.vue'
-import router from './router'
-import store from './store'
-
+import App from './index.vue'
+import router from '@/router'
+import store from '@/store'
+import '@/plugins/comm.js';
 Vue.config.productionTip = false
 
 new Vue({

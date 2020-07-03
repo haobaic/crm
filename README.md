@@ -1,20 +1,21 @@
 # crm
 
-## Project setup
+## 下载
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 启动
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 打包
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# crm
+### 查看包大小
+```
+npm run report
+```
