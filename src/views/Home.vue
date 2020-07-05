@@ -1,6 +1,6 @@
 <template>
 	<div class="home">
-		<div ref="echarts" style="width: 100%;height:400px;" v-on-echart-resize></div>
+		<div ref="echarts" style="width: 70%;height:400px;" v-on-echart-resize></div>
 	</div>
 </template>
 
